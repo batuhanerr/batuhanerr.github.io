@@ -238,11 +238,13 @@ p {
 }
 
 .main-wrapper .section {
-  margin-top: 20px;
+  margin-top: 15px;
   padding: 30px;
   background: #fff;
   padding-bottom: 10px;
 }
+
+
 
 .main-wrapper .experiences-section .item {
   margin-bottom: 20px;
